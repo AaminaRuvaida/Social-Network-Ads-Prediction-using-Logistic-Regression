@@ -1,0 +1,2 @@
+# Social-Network-Ads-Prediction-using-Logistic-Regression
+We have a Social Network Ads dataset, it contains the Age, Estimated Salary and Purchase. Our task is to predict whether the customer has bought the new brand SUV car or not. The target variable purchase contain only 2 variable 0 and 1. Hence it is binary classification problem. So, we are using Logistic Regression to predict the final outcome..
